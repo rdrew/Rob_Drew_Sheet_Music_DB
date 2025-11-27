@@ -35,7 +35,19 @@
     "path_injected": true,
     "sort_history": [
       [
+        "#doc_type",
+        true
+      ],
+      [
         "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "#form_substyle",
         true
       ],
       [
@@ -67,7 +79,7 @@
     },
     "column_sizes": {
       "id": 0,
-      "title": 406,
+      "title": 532,
       "authors": 100,
       "timestamp": 0,
       "size": 88,
@@ -93,50 +105,50 @@
     }
   },
   "books view split pane state": {
-    "hidden_columns": [],
     "column_positions": {
-      "ondevice": 0,
-      "id": 1,
-      "title": 2,
-      "authors": 3,
-      "timestamp": 4,
-      "size": 5,
-      "rating": 6,
-      "tags": 7,
-      "series": 8,
-      "publisher": 9,
-      "formats": 10,
-      "path": 11,
-      "pubdate": 12,
-      "last_modified": 13,
-      "languages": 14,
       "#doc_type": 15,
       "#era_period": 16,
       "#form_substyle": 17,
       "#genre_style": 18,
-      "#source_collection": 19
+      "#source_collection": 19,
+      "authors": 3,
+      "formats": 10,
+      "id": 1,
+      "languages": 14,
+      "last_modified": 13,
+      "ondevice": 0,
+      "path": 11,
+      "pubdate": 12,
+      "publisher": 9,
+      "rating": 6,
+      "series": 8,
+      "size": 5,
+      "tags": 7,
+      "timestamp": 4,
+      "title": 2
     },
     "column_sizes": {
-      "id": 100,
-      "title": 100,
-      "authors": 100,
-      "timestamp": 100,
-      "size": 100,
-      "rating": 100,
-      "tags": 100,
-      "series": 100,
-      "publisher": 100,
-      "formats": 100,
-      "path": 100,
-      "pubdate": 100,
-      "last_modified": 100,
-      "languages": 100,
       "#doc_type": 100,
       "#era_period": 100,
       "#form_substyle": 100,
       "#genre_style": 100,
-      "#source_collection": 100
-    }
+      "#source_collection": 100,
+      "authors": 100,
+      "formats": 100,
+      "id": 100,
+      "languages": 100,
+      "last_modified": 100,
+      "path": 100,
+      "pubdate": 100,
+      "publisher": 100,
+      "rating": 100,
+      "series": 100,
+      "size": 100,
+      "tags": 100,
+      "timestamp": 100,
+      "title": 100
+    },
+    "hidden_columns": []
   },
   "update_all_last_mod_dates_on_start": false,
   "field_metadata": {
@@ -685,7 +697,8 @@
         "enum_values": [
           "Single",
           "Collection",
-          "Text"
+          "Text",
+          "Fakebook"
         ],
         "enum_colors": [],
         "use_decorations": false,
@@ -815,6 +828,50 @@
   },
   "gui_view_history": [
     [
+      187,
+      "Cuban Fake Book"
+    ],
+    [
+      183,
+      "dossier 4.PDF"
+    ],
+    [
+      184,
+      ":"
+    ],
+    [
+      143,
+      "Chega de saudade"
+    ],
+    [
+      143,
+      "Chega de saudade 01"
+    ],
+    [
+      166,
+      "This is always 01"
+    ],
+    [
+      165,
+      "This is always 02"
+    ],
+    [
+      62,
+      "A foggy day"
+    ],
+    [
+      41,
+      "Skriver ut Boije 361.tif (6 sidor)"
+    ],
+    [
+      12,
+      "Variations on a theme of Cabezon M Ponce"
+    ],
+    [
+      11,
+      "villa lobos preludes etudes"
+    ],
+    [
       20,
       "Fantasia"
     ],
@@ -829,11 +886,7 @@
     [
       33,
       "Tombeau"
-    ],
-    [
-      20,
-      "C:\\Musik\\GitarrenNoten\\weiss_fantasie_d.sib"
     ]
   ],
-  "last_expired_trash_at": 1764255956.04609
+  "last_expired_trash_at": 1764265638.435931
 }
