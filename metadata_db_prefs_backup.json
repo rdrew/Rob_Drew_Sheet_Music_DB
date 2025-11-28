@@ -35,6 +35,10 @@
     "path_injected": true,
     "sort_history": [
       [
+        "#doc_type",
+        true
+      ],
+      [
         "size",
         false
       ],
@@ -47,7 +51,27 @@
         true
       ],
       [
-        "title",
+        "size",
+        false
+      ],
+      [
+        "#doc_type",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "#doc_type",
+        true
+      ],
+      [
+        "authors",
         true
       ],
       [
@@ -828,6 +852,10 @@
   },
   "gui_view_history": [
     [
+      53,
+      "We Wish You..."
+    ],
+    [
       187,
       "Cuban Fake Book"
     ],
@@ -882,11 +910,9 @@
     [
       32,
       "Finale 2008a - [de_visee_suite_8_re_min_paris_1686.MUS]"
-    ],
-    [
-      33,
-      "Tombeau"
     ]
   ],
-  "last_expired_trash_at": 1764349529.520562
+  "last_expired_trash_at": 1764349529.520562,
+  "check_library_ignore_extensions": "",
+  "check_library_ignore_names": ""
 }
