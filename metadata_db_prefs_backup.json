@@ -35,6 +35,10 @@
     "path_injected": true,
     "sort_history": [
       [
+        "size",
+        false
+      ],
+      [
         "#doc_type",
         true
       ],
@@ -884,5 +888,5 @@
       "Tombeau"
     ]
   ],
-  "last_expired_trash_at": 1764336182.9387221
+  "last_expired_trash_at": 1764349529.520562
 }
