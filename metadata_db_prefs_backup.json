@@ -16,55 +16,6 @@
     "identifiers"
   ],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
-    "column_positions": {
-      "#doc_type": 17,
-      "#era_period": 18,
-      "#form_substyle": 16,
-      "#genre_style": 15,
-      "#source_collection": 19,
-      "authors": 3,
-      "formats": 10,
-      "id": 1,
-      "languages": 14,
-      "last_modified": 13,
-      "ondevice": 0,
-      "path": 11,
-      "pubdate": 12,
-      "publisher": 9,
-      "rating": 6,
-      "series": 8,
-      "size": 5,
-      "tags": 7,
-      "timestamp": 4,
-      "title": 2
-    },
-    "column_sizes": {
-      "#doc_type": 100,
-      "#era_period": 100,
-      "#form_substyle": 100,
-      "#genre_style": 100,
-      "#source_collection": 100,
-      "authors": 100,
-      "formats": 0,
-      "id": 0,
-      "languages": 0,
-      "last_modified": 0,
-      "path": 0,
-      "pubdate": 0,
-      "publisher": 0,
-      "rating": 0,
-      "series": 67,
-      "size": 88,
-      "tags": 0,
-      "timestamp": 0,
-      "title": 532
-    },
-    "formats_injected": true,
     "hidden_columns": [
       "id",
       "timestamp",
@@ -77,12 +28,121 @@
       "last_modified",
       "languages"
     ],
-    "id_injected": true,
-    "languages_injected": true,
     "last_modified_injected": true,
+    "languages_injected": true,
+    "formats_injected": true,
+    "id_injected": true,
     "path_injected": true,
     "sort_history": [
       [
+        "title",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "size",
+        false
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "title",
+        true
+      ],
+      [
         "#doc_type",
         true
       ],
@@ -92,41 +152,61 @@
       ],
       [
         "#doc_type",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "#doc_type",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "#doc_type",
-        true
-      ],
-      [
-        "authors",
         true
       ],
       [
         "timestamp",
         false
       ]
-    ]
+    ],
+    "column_positions": {
+      "ondevice": 0,
+      "id": 1,
+      "title": 2,
+      "authors": 3,
+      "timestamp": 4,
+      "size": 5,
+      "rating": 6,
+      "tags": 7,
+      "series": 8,
+      "publisher": 9,
+      "formats": 10,
+      "path": 11,
+      "pubdate": 12,
+      "last_modified": 13,
+      "languages": 14,
+      "#doc_type": 17,
+      "#era_period": 18,
+      "#form_substyle": 16,
+      "#genre_style": 15,
+      "#source_collection": 19
+    },
+    "column_sizes": {
+      "id": 0,
+      "title": 532,
+      "authors": 100,
+      "timestamp": 0,
+      "size": 88,
+      "rating": 0,
+      "tags": 0,
+      "series": 67,
+      "publisher": 0,
+      "formats": 0,
+      "path": 0,
+      "pubdate": 0,
+      "last_modified": 0,
+      "languages": 0,
+      "#doc_type": 100,
+      "#era_period": 100,
+      "#form_substyle": 100,
+      "#genre_style": 100,
+      "#source_collection": 100
+    },
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    }
   },
   "books view split pane state": {
     "column_positions": {
@@ -852,67 +932,71 @@
   },
   "gui_view_history": [
     [
-      216,
-      "KIC Document 0001_004"
+      369,
+      "Antonio Lauro"
     ],
     [
-      53,
-      "We Wish You..."
+      212,
+      "Softly As In A Morning Sunrise"
     ],
     [
-      187,
-      "Cuban Fake Book"
+      332,
+      "September in the rain"
     ],
     [
-      183,
-      "dossier 4.PDF"
+      367,
+      "Weiss Prelude-Fugue"
     ],
     [
-      184,
-      ":"
+      26,
+      "Capricho Arabe"
     ],
     [
-      143,
-      "Chega de saudade"
+      357,
+      "Haitian Suite"
     ],
     [
-      143,
-      "Chega de saudade 01"
+      345,
+      "Them there eyes"
     ],
     [
-      166,
+      302,
+      "Ill come running back to you"
+    ],
+    [
+      326,
+      "Nobody Knows You"
+    ],
+    [
+      353,
+      "You go to my head"
+    ],
+    [
+      199,
+      "Willow Weep For Me"
+    ],
+    [
+      347,
       "This is always 01"
     ],
     [
-      165,
-      "This is always 02"
+      203,
+      "Misty"
     ],
     [
-      62,
-      "A foggy day"
+      355,
+      "Stars fell on Alabama"
     ],
     [
-      41,
-      "Skriver ut Boije 361.tif (6 sidor)"
-    ],
-    [
-      12,
-      "Variations on a theme of Cabezon M Ponce"
-    ],
-    [
-      11,
-      "villa lobos preludes etudes"
-    ],
-    [
-      20,
-      "Fantasia"
-    ],
-    [
-      19,
-      "Antonio Lauro"
+      191,
+      "I'll Be Seeing You"
     ]
   ],
-  "last_expired_trash_at": 1764353304.2480829,
+  "last_expired_trash_at": 1764357577.2258089,
   "check_library_ignore_extensions": "",
-  "check_library_ignore_names": ""
+  "check_library_ignore_names": "",
+  "virtual_libraries": {},
+  "news_to_be_synced": [
+    219
+  ]
 }
