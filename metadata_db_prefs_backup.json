@@ -83,15 +83,7 @@
     "path_injected": true,
     "sort_history": [
       [
-        "title",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "authors",
+        "#genre_style",
         true
       ],
       [
@@ -104,102 +96,6 @@
       ],
       [
         "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "title",
-        true
-      ],
-      [
-        "#doc_type",
-        true
-      ],
-      [
-        "size",
-        false
-      ],
-      [
-        "#doc_type",
         true
       ],
       [
@@ -992,7 +888,7 @@
       "Stars fell on Alabama"
     ]
   ],
-  "last_expired_trash_at": 1764599390.029058,
+  "last_expired_trash_at": 1764617169.95402,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
