@@ -16,6 +16,55 @@
     "identifiers"
   ],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "#doc_type": 17,
+      "#era_period": 18,
+      "#form_substyle": 16,
+      "#genre_style": 15,
+      "#source_collection": 19,
+      "authors": 3,
+      "formats": 10,
+      "id": 1,
+      "languages": 14,
+      "last_modified": 13,
+      "ondevice": 0,
+      "path": 11,
+      "pubdate": 12,
+      "publisher": 9,
+      "rating": 6,
+      "series": 8,
+      "size": 5,
+      "tags": 7,
+      "timestamp": 4,
+      "title": 2
+    },
+    "column_sizes": {
+      "#doc_type": 100,
+      "#era_period": 100,
+      "#form_substyle": 100,
+      "#genre_style": 100,
+      "#source_collection": 100,
+      "authors": 100,
+      "formats": 0,
+      "id": 0,
+      "languages": 0,
+      "last_modified": 0,
+      "path": 0,
+      "pubdate": 0,
+      "publisher": 0,
+      "rating": 0,
+      "series": 67,
+      "size": 88,
+      "tags": 0,
+      "timestamp": 0,
+      "title": 532
+    },
+    "formats_injected": true,
     "hidden_columns": [
       "id",
       "timestamp",
@@ -28,10 +77,9 @@
       "last_modified",
       "languages"
     ],
-    "last_modified_injected": true,
-    "languages_injected": true,
-    "formats_injected": true,
     "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
     "path_injected": true,
     "sort_history": [
       [
@@ -158,55 +206,7 @@
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "id": 1,
-      "title": 2,
-      "authors": 3,
-      "timestamp": 4,
-      "size": 5,
-      "rating": 6,
-      "tags": 7,
-      "series": 8,
-      "publisher": 9,
-      "formats": 10,
-      "path": 11,
-      "pubdate": 12,
-      "last_modified": 13,
-      "languages": 14,
-      "#doc_type": 17,
-      "#era_period": 18,
-      "#form_substyle": 16,
-      "#genre_style": 15,
-      "#source_collection": 19
-    },
-    "column_sizes": {
-      "id": 0,
-      "title": 532,
-      "authors": 100,
-      "timestamp": 0,
-      "size": 88,
-      "rating": 0,
-      "tags": 0,
-      "series": 67,
-      "publisher": 0,
-      "formats": 0,
-      "path": 0,
-      "pubdate": 0,
-      "last_modified": 0,
-      "languages": 0,
-      "#doc_type": 100,
-      "#era_period": 100,
-      "#form_substyle": 100,
-      "#genre_style": 100,
-      "#source_collection": 100
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "books view split pane state": {
     "column_positions": {
@@ -932,6 +932,10 @@
   },
   "gui_view_history": [
     [
+      371,
+      "Skriver ut Boije 361.tif (6 sidor)"
+    ],
+    [
       369,
       "Antonio Lauro"
     ],
@@ -986,13 +990,9 @@
     [
       355,
       "Stars fell on Alabama"
-    ],
-    [
-      191,
-      "I'll Be Seeing You"
     ]
   ],
-  "last_expired_trash_at": 1764357577.2258089,
+  "last_expired_trash_at": 1764599390.029058,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
