@@ -83,6 +83,18 @@
     "path_injected": true,
     "sort_history": [
       [
+        "title",
+        true
+      ],
+      [
+        "authors",
+        true
+      ],
+      [
+        "size",
+        true
+      ],
+      [
         "#genre_style",
         true
       ],
@@ -824,6 +836,10 @@
   },
   "gui_view_history": [
     [
+      443,
+      "stardust"
+    ],
+    [
       432,
       "THE BOOK"
     ],
@@ -878,13 +894,9 @@
     [
       212,
       "Softly As In A Morning Sunrise"
-    ],
-    [
-      332,
-      "September in the rain"
     ]
   ],
-  "last_expired_trash_at": 1766170582.2117708,
+  "last_expired_trash_at": 1769797752.84755,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
