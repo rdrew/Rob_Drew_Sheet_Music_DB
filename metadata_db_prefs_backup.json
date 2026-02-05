@@ -95,18 +95,6 @@
         true
       ],
       [
-        "#genre_style",
-        true
-      ],
-      [
-        "authors",
-        true
-      ],
-      [
-        "#genre_style",
-        true
-      ],
-      [
         "timestamp",
         false
       ]
@@ -896,7 +884,7 @@
       "Softly As In A Morning Sunrise"
     ]
   ],
-  "last_expired_trash_at": 1769797752.84755,
+  "last_expired_trash_at": 1770045378.7134578,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
