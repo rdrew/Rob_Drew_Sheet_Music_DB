@@ -33,6 +33,7 @@
       "languages": 14,
       "last_modified": 13,
       "ondevice": 0,
+      "pages": 20,
       "path": 11,
       "pubdate": 12,
       "publisher": 9,
@@ -54,6 +55,7 @@
       "id": 0,
       "languages": 0,
       "last_modified": 0,
+      "pages": 0,
       "path": 0,
       "pubdate": 0,
       "publisher": 0,
@@ -75,13 +77,23 @@
       "path",
       "pubdate",
       "last_modified",
-      "languages"
+      "languages",
+      "pages"
     ],
     "id_injected": true,
     "languages_injected": true,
     "last_modified_injected": true,
+    "pages_injected": true,
     "path_injected": true,
     "sort_history": [
+      [
+        "authors",
+        true
+      ],
+      [
+        "#source_collection",
+        true
+      ],
       [
         "title",
         true
@@ -113,6 +125,7 @@
       "languages": 14,
       "last_modified": 13,
       "ondevice": 0,
+      "pages": 20,
       "path": 11,
       "pubdate": 12,
       "publisher": 9,
@@ -134,6 +147,7 @@
       "id": 100,
       "languages": 100,
       "last_modified": 100,
+      "pages": 100,
       "path": 100,
       "pubdate": 100,
       "publisher": 100,
@@ -174,7 +188,7 @@
       "label": "doc_type",
       "link_column": "value",
       "name": "Document Type",
-      "rec_index": 22,
+      "rec_index": 23,
       "search_terms": [
         "#doc_type"
       ],
@@ -203,7 +217,7 @@
       "label": "era_period",
       "link_column": "value",
       "name": "Era / Period",
-      "rec_index": 23,
+      "rec_index": 24,
       "search_terms": [
         "#era_period"
       ],
@@ -232,7 +246,7 @@
       "label": "form_substyle",
       "link_column": "value",
       "name": "Form / Sub-style",
-      "rec_index": 24,
+      "rec_index": 25,
       "search_terms": [
         "#form_substyle"
       ],
@@ -261,7 +275,7 @@
       "label": "genre_style",
       "link_column": "value",
       "name": "Genre / Style",
-      "rec_index": 25,
+      "rec_index": 26,
       "search_terms": [
         "#genre_style"
       ],
@@ -286,7 +300,7 @@
       "label": "source_collection",
       "link_column": "value",
       "name": "Source / Collection",
-      "rec_index": 26,
+      "rec_index": 27,
       "search_terms": [
         "#source_collection"
       ],
@@ -469,7 +483,7 @@
       "kind": "field",
       "label": "in_tag_browser",
       "name": null,
-      "rec_index": 30,
+      "rec_index": 31,
       "search_terms": [
         "in_tag_browser"
       ],
@@ -532,7 +546,7 @@
       "kind": "field",
       "label": "marked",
       "name": null,
-      "rec_index": 28,
+      "rec_index": 29,
       "search_terms": [
         "marked"
       ],
@@ -566,11 +580,29 @@
       "kind": "field",
       "label": "ondevice",
       "name": "On device",
-      "rec_index": 27,
+      "rec_index": 28,
       "search_terms": [
         "ondevice"
       ],
       "table": null
+    },
+    "pages": {
+      "column": "pages",
+      "datatype": "int",
+      "display": {},
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": false,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "pages",
+      "name": "Pages",
+      "rec_index": 22,
+      "search_terms": [
+        "pages"
+      ],
+      "table": "books_pages_link"
     },
     "path": {
       "column": null,
@@ -698,7 +730,7 @@
       "kind": "field",
       "label": "series_sort",
       "name": "Series sort",
-      "rec_index": 29,
+      "rec_index": 30,
       "search_terms": [
         "series_sort"
       ],
@@ -824,6 +856,42 @@
   },
   "gui_view_history": [
     [
+      10,
+      "Christopher Parkening"
+    ],
+    [
+      684,
+      "Haydn-Minuetto"
+    ],
+    [
+      755,
+      "Brouwer-DanzaCaracter\u00edstica"
+    ],
+    [
+      821,
+      "Alais-Carlevaro-CuatroantiguosestilosmsRR"
+    ],
+    [
+      828,
+      "Escuela-de-la-Guitarra-School-of-Guitar-Abel-Carlevaro"
+    ],
+    [
+      189,
+      "Beautiful Love"
+    ],
+    [
+      199,
+      "Willow Weep For Me"
+    ],
+    [
+      196,
+      "After You've Gone"
+    ],
+    [
+      191,
+      "I'll Be Seeing You"
+    ],
+    [
       443,
       "stardust"
     ],
@@ -846,45 +914,9 @@
     [
       426,
       "Solo Lute Works (F, Koonce)"
-    ],
-    [
-      416,
-      "D minor suite Ocean Full"
-    ],
-    [
-      344,
-      "Tenderly 02"
-    ],
-    [
-      369,
-      "Works for Guitar"
-    ],
-    [
-      390,
-      "Capt. O'Kane"
-    ],
-    [
-      387,
-      "Up in the air"
-    ],
-    [
-      384,
-      "Robs BG music"
-    ],
-    [
-      371,
-      "Skriver ut Boije 361.tif (6 sidor)"
-    ],
-    [
-      369,
-      "Antonio Lauro"
-    ],
-    [
-      212,
-      "Softly As In A Morning Sunrise"
     ]
   ],
-  "last_expired_trash_at": 1770045378.7134578,
+  "last_expired_trash_at": 1770654571.084509,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
