@@ -99,14 +99,6 @@
         true
       ],
       [
-        "authors",
-        true
-      ],
-      [
-        "size",
-        true
-      ],
-      [
         "timestamp",
         false
       ]
@@ -856,6 +848,18 @@
   },
   "gui_view_history": [
     [
+      189,
+      "Beautiful Love"
+    ],
+    [
+      199,
+      "Willow Weep For Me"
+    ],
+    [
+      196,
+      "After You've Gone"
+    ],
+    [
       10,
       "Christopher Parkening"
     ],
@@ -874,18 +878,6 @@
     [
       828,
       "Escuela-de-la-Guitarra-School-of-Guitar-Abel-Carlevaro"
-    ],
-    [
-      189,
-      "Beautiful Love"
-    ],
-    [
-      199,
-      "Willow Weep For Me"
-    ],
-    [
-      196,
-      "After You've Gone"
     ],
     [
       191,
@@ -916,7 +908,7 @@
       "Solo Lute Works (F, Koonce)"
     ]
   ],
-  "last_expired_trash_at": 1770654571.084509,
+  "last_expired_trash_at": 1772029128.6769722,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
