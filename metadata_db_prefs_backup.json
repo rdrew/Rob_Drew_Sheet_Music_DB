@@ -22,26 +22,27 @@
       "timestamp": "center"
     },
     "column_positions": {
-      "#doc_type": 17,
-      "#era_period": 18,
-      "#form_substyle": 16,
-      "#genre_style": 15,
-      "#source_collection": 19,
-      "authors": 3,
-      "formats": 10,
+      "#doc_type": 18,
+      "#era_period": 19,
+      "#form_substyle": 17,
+      "#genre_style": 16,
+      "#gig": 3,
+      "#source_collection": 20,
+      "authors": 4,
+      "formats": 11,
       "id": 1,
-      "languages": 14,
-      "last_modified": 13,
+      "languages": 15,
+      "last_modified": 14,
       "ondevice": 0,
-      "pages": 20,
-      "path": 11,
-      "pubdate": 12,
-      "publisher": 9,
-      "rating": 6,
-      "series": 8,
-      "size": 5,
-      "tags": 7,
-      "timestamp": 4,
+      "pages": 21,
+      "path": 12,
+      "pubdate": 13,
+      "publisher": 10,
+      "rating": 7,
+      "series": 9,
+      "size": 6,
+      "tags": 8,
+      "timestamp": 5,
       "title": 2
     },
     "column_sizes": {
@@ -49,6 +50,7 @@
       "#era_period": 100,
       "#form_substyle": 100,
       "#genre_style": 100,
+      "#gig": 167,
       "#source_collection": 100,
       "authors": 100,
       "formats": 0,
@@ -87,15 +89,15 @@
     "path_injected": true,
     "sort_history": [
       [
+        "#gig",
+        false
+      ],
+      [
         "authors",
         true
       ],
       [
         "#source_collection",
-        true
-      ],
-      [
-        "title",
         true
       ],
       [
@@ -110,6 +112,7 @@
       "#era_period": 16,
       "#form_substyle": 17,
       "#genre_style": 18,
+      "#gig": 21,
       "#source_collection": 19,
       "authors": 3,
       "formats": 10,
@@ -133,6 +136,7 @@
       "#era_period": 100,
       "#form_substyle": 100,
       "#genre_style": 100,
+      "#gig": 100,
       "#source_collection": 100,
       "authors": 100,
       "formats": 100,
@@ -152,7 +156,7 @@
     },
     "hidden_columns": []
   },
-  "update_all_last_mod_dates_on_start": true,
+  "update_all_last_mod_dates_on_start": false,
   "field_metadata": {
     "#doc_type": {
       "category_sort": "value",
@@ -274,6 +278,33 @@
       ],
       "table": "custom_column_2"
     },
+    "#gig": {
+      "category_sort": "value",
+      "colnum": 6,
+      "column": "value",
+      "datatype": "bool",
+      "display": {
+        "bools_show_icons": true,
+        "bools_show_text": false,
+        "default_value": false,
+        "description": "",
+        "web_search_template": ""
+      },
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": true,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "gig",
+      "link_column": "value",
+      "name": "Concert Tunes",
+      "rec_index": 27,
+      "search_terms": [
+        "#gig"
+      ],
+      "table": "custom_column_6"
+    },
     "#source_collection": {
       "category_sort": "value",
       "colnum": 5,
@@ -293,7 +324,7 @@
       "label": "source_collection",
       "link_column": "value",
       "name": "Source / Collection",
-      "rec_index": 27,
+      "rec_index": 28,
       "search_terms": [
         "#source_collection"
       ],
@@ -476,7 +507,7 @@
       "kind": "field",
       "label": "in_tag_browser",
       "name": null,
-      "rec_index": 31,
+      "rec_index": 32,
       "search_terms": [
         "in_tag_browser"
       ],
@@ -539,7 +570,7 @@
       "kind": "field",
       "label": "marked",
       "name": null,
-      "rec_index": 29,
+      "rec_index": 30,
       "search_terms": [
         "marked"
       ],
@@ -573,7 +604,7 @@
       "kind": "field",
       "label": "ondevice",
       "name": "On device",
-      "rec_index": 28,
+      "rec_index": 29,
       "search_terms": [
         "ondevice"
       ],
@@ -723,7 +754,7 @@
       "kind": "field",
       "label": "series_sort",
       "name": "Series sort",
-      "rec_index": 30,
+      "rec_index": 31,
       "search_terms": [
         "series_sort"
       ],
@@ -849,6 +880,38 @@
   },
   "gui_view_history": [
     [
+      441,
+      "The Jazz Fakebook (JAZZFAKE)"
+    ],
+    [
+      431,
+      "Th Colorado Cookbook (COLOBK)"
+    ],
+    [
+      429,
+      "Fakebook Index"
+    ],
+    [
+      854,
+      "Tchavalo Swing"
+    ],
+    [
+      848,
+      "At last"
+    ],
+    [
+      846,
+      "output-023"
+    ],
+    [
+      841,
+      "output-005"
+    ],
+    [
+      540,
+      "Spatola-El13tangop2guitmsAC"
+    ],
+    [
       840,
       "MURCIA - Prel\u00fadio ENI.MUS"
     ],
@@ -875,41 +938,9 @@
     [
       196,
       "After You've Gone"
-    ],
-    [
-      10,
-      "Christopher Parkening"
-    ],
-    [
-      684,
-      "Haydn-Minuetto"
-    ],
-    [
-      755,
-      "Brouwer-DanzaCaracter\u00edstica"
-    ],
-    [
-      821,
-      "Alais-Carlevaro-CuatroantiguosestilosmsRR"
-    ],
-    [
-      828,
-      "Escuela-de-la-Guitarra-School-of-Guitar-Abel-Carlevaro"
-    ],
-    [
-      191,
-      "I'll Be Seeing You"
-    ],
-    [
-      443,
-      "stardust"
-    ],
-    [
-      432,
-      "THE BOOK"
     ]
   ],
-  "last_expired_trash_at": 1776263814.328429,
+  "last_expired_trash_at": 1782224770.9838269,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
