@@ -104,10 +104,6 @@
         true
       ],
       [
-        "#source_collection",
-        true
-      ],
-      [
         "timestamp",
         false
       ]
@@ -165,7 +161,7 @@
     },
     "hidden_columns": []
   },
-  "update_all_last_mod_dates_on_start": false,
+  "update_all_last_mod_dates_on_start": true,
   "field_metadata": {
     "#cheryls_bday": {
       "category_sort": "value",
@@ -976,7 +972,7 @@
       "MURCIA - Prel\u00fadio ENI.MUS"
     ]
   ],
-  "last_expired_trash_at": 1787077223.049262,
+  "last_expired_trash_at": 1787084756.321187,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
