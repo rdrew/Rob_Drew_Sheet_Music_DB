@@ -911,20 +911,32 @@
   },
   "gui_view_history": [
     [
-      859,
-      "7th_chord_inversions"
+      862,
+      "Granada (v2)"
+    ],
+    [
+      862,
+      "ALBENIZ - Granada, Op. 47 (Rochel-Lopes) ENA.mus"
+    ],
+    [
+      861,
+      "Granada"
+    ],
+    [
+      190,
+      "Come Rain Come Shine"
     ],
     [
       860,
       "drop-3-guitar-chord_inversions"
     ],
     [
-      856,
-      "All the things you are"
+      859,
+      "7th_chord_inversions"
     ],
     [
-      190,
-      "Come Rain Come Shine"
+      856,
+      "All the things you are"
     ],
     [
       858,
@@ -957,21 +969,9 @@
     [
       441,
       "The Jazz Fakebook (JAZZFAKE)"
-    ],
-    [
-      431,
-      "Th Colorado Cookbook (COLOBK)"
-    ],
-    [
-      429,
-      "Fakebook Index"
-    ],
-    [
-      854,
-      "Tchavalo Swing"
     ]
   ],
-  "last_expired_trash_at": 1787511961.861235,
+  "last_expired_trash_at": 1788187049.594336,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
