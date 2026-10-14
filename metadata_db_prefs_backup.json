@@ -16,6 +16,61 @@
     "identifiers"
   ],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "#cheryls_bday": 4,
+      "#doc_type": 19,
+      "#era_period": 20,
+      "#form_substyle": 18,
+      "#genre_style": 17,
+      "#gig": 3,
+      "#source_collection": 21,
+      "authors": 5,
+      "formats": 12,
+      "id": 1,
+      "languages": 16,
+      "last_modified": 15,
+      "ondevice": 0,
+      "pages": 22,
+      "path": 13,
+      "pubdate": 14,
+      "publisher": 11,
+      "rating": 8,
+      "series": 10,
+      "size": 7,
+      "tags": 9,
+      "timestamp": 6,
+      "title": 2
+    },
+    "column_sizes": {
+      "#cheryls_bday": 0,
+      "#doc_type": 100,
+      "#era_period": 100,
+      "#form_substyle": 100,
+      "#genre_style": 100,
+      "#gig": 0,
+      "#source_collection": 100,
+      "authors": 100,
+      "formats": 0,
+      "id": 0,
+      "languages": 0,
+      "last_modified": 0,
+      "pages": 0,
+      "path": 0,
+      "pubdate": 0,
+      "publisher": 0,
+      "rating": 97,
+      "series": 67,
+      "size": 0,
+      "tags": 0,
+      "timestamp": 0,
+      "title": 244
+    },
+    "formats_injected": true,
     "hidden_columns": [
       "id",
       "timestamp",
@@ -31,13 +86,20 @@
       "#cheryls_bday",
       "#gig"
     ],
-    "last_modified_injected": true,
-    "languages_injected": true,
-    "formats_injected": true,
     "id_injected": true,
-    "path_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
     "pages_injected": true,
+    "path_injected": true,
     "sort_history": [
+      [
+        "#genre_style",
+        false
+      ],
+      [
+        "rating",
+        false
+      ],
       [
         "#cheryls_bday",
         true
@@ -54,61 +116,7 @@
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "id": 1,
-      "title": 2,
-      "authors": 5,
-      "timestamp": 6,
-      "size": 7,
-      "rating": 8,
-      "tags": 9,
-      "series": 10,
-      "publisher": 11,
-      "formats": 12,
-      "path": 13,
-      "pubdate": 14,
-      "last_modified": 15,
-      "languages": 16,
-      "pages": 22,
-      "#cheryls_bday": 4,
-      "#doc_type": 19,
-      "#era_period": 20,
-      "#form_substyle": 18,
-      "#genre_style": 17,
-      "#gig": 3,
-      "#source_collection": 21
-    },
-    "column_sizes": {
-      "id": 0,
-      "title": 244,
-      "authors": 100,
-      "timestamp": 0,
-      "size": 0,
-      "rating": 97,
-      "tags": 0,
-      "series": 67,
-      "publisher": 0,
-      "formats": 0,
-      "path": 0,
-      "pubdate": 0,
-      "last_modified": 0,
-      "languages": 0,
-      "pages": 0,
-      "#cheryls_bday": 0,
-      "#doc_type": 100,
-      "#era_period": 100,
-      "#form_substyle": 100,
-      "#genre_style": 100,
-      "#gig": 0,
-      "#source_collection": 100
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "books view split pane state": {
     "column_positions": {
@@ -912,8 +920,52 @@
   },
   "gui_view_history": [
     [
+      40,
+      "Herencia latina (rumba)"
+    ],
+    [
+      845,
+      "All of me"
+    ],
+    [
+      783,
+      "Banegas-Milongascl\u00e1sicas"
+    ],
+    [
+      683,
+      "Malatas-Serenata"
+    ],
+    [
+      863,
+      "Can't We Be Friends (Ella And Louis)"
+    ],
+    [
+      433,
+      "The Real Book Vol 2 (REALBK2)"
+    ],
+    [
+      429,
+      "Fakebook Index"
+    ],
+    [
+      366,
+      "Classic Album for Guitar"
+    ],
+    [
       862,
       "Granada (v2)"
+    ],
+    [
+      371,
+      "Skriver ut Boije 361.tif (6 sidor)"
+    ],
+    [
+      504,
+      "Turina-Soleares"
+    ],
+    [
+      508,
+      "Turina-HomenajeaT\u00e1rrega"
     ],
     [
       862,
@@ -926,53 +978,9 @@
     [
       190,
       "Come Rain Come Shine"
-    ],
-    [
-      860,
-      "drop-3-guitar-chord_inversions"
-    ],
-    [
-      859,
-      "7th_chord_inversions"
-    ],
-    [
-      856,
-      "All the things you are"
-    ],
-    [
-      858,
-      "Minor Formations"
-    ],
-    [
-      852,
-      "Deed I do"
-    ],
-    [
-      853,
-      "Don't wait too long"
-    ],
-    [
-      211,
-      "Comes Love"
-    ],
-    [
-      189,
-      "Beautiful Love"
-    ],
-    [
-      196,
-      "After You've Gone"
-    ],
-    [
-      855,
-      "Sconsolato"
-    ],
-    [
-      441,
-      "The Jazz Fakebook (JAZZFAKE)"
     ]
   ],
-  "last_expired_trash_at": 1788187049.594336,
+  "last_expired_trash_at": 1791992208.0034518,
   "check_library_ignore_extensions": "",
   "check_library_ignore_names": "",
   "virtual_libraries": {},
